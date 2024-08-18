@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="DuplicateDefinition" translatable="false">Cronometro de Voltas</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="stop" translatable="false">Stop</string>
+    <string name="reset" translatable="false">Reset</string>
+</resources>
